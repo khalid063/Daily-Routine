@@ -13,7 +13,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return const Scaffold(
       appBar: CustomAppBar(
-        title: 'Daily Routine',
+        title: 'Daily Routine Test 5',
         child: Icon(Icons.add),
       )
     );
